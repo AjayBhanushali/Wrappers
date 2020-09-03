@@ -1,2 +1,2 @@
 # Wrappers
-Often used libraries/API/Libraries wrappers.
+Wrappers/Utils to achieve a clean, modular, discardable code. Hence, I have created a dedicated Github repo to maintain, enhance and share often used wrappers in iOS Swift to create smooth experience for developers. I am expecting a lot of forks, commits, merge/pull requests from my iOS friends. Let's create something useful for each one of us. Also, checkout my other iOS libraries on Github.
